@@ -1,0 +1,7 @@
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\bin\Debug\TicTacToeExercise.exe.config
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\bin\Debug\TicTacToeExercise.exe
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\bin\Debug\TicTacToeExercise.pdb
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\obj\Debug\TicTacToeExercise.csproj.AssemblyReference.cache
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\obj\Debug\TicTacToeExercise.csproj.CoreCompileInputs.cache
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\obj\Debug\TicTacToeExercise.exe
+C:\Users\MSCJHTEO\source\repos\TicTacToeExercise\TicTacToeExercise\obj\Debug\TicTacToeExercise.pdb
